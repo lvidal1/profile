@@ -12,6 +12,8 @@
     "vue-stash": "^v2.0.1-beta"
   },
   "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "browser-sync-webpack-plugin": "^2.2.2",
     "cross-env": "^3.1.4",
     "laravel-mix": "^0.10.0",
     "webpack": "^2.2.1",
