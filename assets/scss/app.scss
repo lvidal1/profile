@@ -1,6 +1,13 @@
 
+@import "~bootstrap-scss/bootstrap-grid";
+
 @import "components/variables.scss";
 @import "components/colors.scss";
 @import "components/fonts.scss";
+@import "components/functions.scss";
+@import "components/mixins.scss";
+
+@import "components/bg.scss";
+
 @import "views/layout.scss";
 @import "views/home.scss";
