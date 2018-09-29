@@ -8,6 +8,12 @@ html {
 
 body {
     min-height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #777777;
 }
 
 .section{
@@ -30,4 +36,61 @@ body {
 
 .wrapper{
     position:relative;
+}
+
+.iq-mt-90 {
+    margin-top: 90px;
+}
+
+.iq-tw-8 {
+    font-weight: 800;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    color: #333333;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: normal;
+    a{
+        color: inherit;
+        font-family: 'Raleway', sans-serif;
+    }
+}
+
+h1 {
+    font-size: 56px;
+    font-style: normal;
+}
+
+h2 {
+    font-size: 40px;
+    font-style: normal;
+}
+
+h3 {
+    font-size: 36px;
+    font-style: normal;
+}
+
+h4 {
+    font-size: 22px;
+    font-style: normal;
+}
+
+h5 {
+    font-size: 26px;
+    font-style: normal;
+}
+
+h6 {
+    font-size: 22px;
+    font-style: normal;
+}
+
+.lead {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 0;
 }
