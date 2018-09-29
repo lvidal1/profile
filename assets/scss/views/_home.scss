@@ -1,11 +1,4 @@
 .home{
-    .overlay-sidebar{
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        background-image: url("../images/02.png");
-    }
-
     .iq-home {
         margin-left: -200px;
         height: 670px;
@@ -13,7 +6,7 @@
         overflow: auto;
         padding: 0 20px;
       }
-      
+
       .iq-objects {
         position: relative;
         left: 0;
@@ -27,7 +20,7 @@
           left: 0;
         }
       }
-      
+
       .boder-img {
         position: relative;
         width: 87%;
@@ -49,7 +42,7 @@
             width: 100%;
         }
       }
-      
+
       .content-deta {
         padding: 60px 40px 0 5px;
         h1 {

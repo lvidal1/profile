@@ -112,7 +112,13 @@ a, .button {
     line-height: 26px;
     margin: 0;
 }
-
+.overlay-pattern{
+    top:0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/02.png");
+}
 /*----------------------------------------------------------------------
                         Buttons
 -----------------------------------------------------------------------*/

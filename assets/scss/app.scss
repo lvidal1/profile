@@ -1,5 +1,5 @@
 
-@import "~bootstrap-scss/bootstrap-grid";
+@import "~bootstrap-scss/bootstrap";
 
 @import "components/variables.scss";
 @import "components/colors.scss";
@@ -10,4 +10,5 @@
 @import "components/bg.scss";
 
 @import "views/layout.scss";
+@import "components/header.scss";
 @import "views/home.scss";
