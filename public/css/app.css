@@ -1979,6 +1979,10 @@ body {
   font-weight: 800;
 }
 
+.iq-mt-30 {
+  margin-top: 30px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Raleway', sans-serif;
   font-weight: normal;
@@ -2023,10 +2027,46 @@ h6 {
   font-style: normal;
 }
 
+a {
+  text-decoration: none;
+}
+
+a, .button {
+  transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  color: #333333;
+}
+
 .lead {
   font-size: 16px;
   line-height: 26px;
   margin: 0;
+}
+
+/*----------------------------------------------------------------------
+                        Buttons
+-----------------------------------------------------------------------*/
+.button {
+  color: #333333;
+  padding: 10px 20px;
+  font-weight: 600;
+  font-size: 14px;
+  border: none;
+  position: relative;
+  border: 2px solid #1C46F2;
+  display: inline-block;
+  text-transform: uppercase;
+  background: transparent;
+}
+
+.button:hover, .button:focus {
+  color: #fff;
+  border-color: #1C46F2;
+  background: #1C46F2;
 }
 
 .home .overlay-sidebar {
@@ -2075,6 +2115,12 @@ h6 {
   border: 15px solid #1C46F2;
   display: inline-block;
   z-index: -1;
+}
+
+@media (max-width: 1199px) {
+  .home .boder-img {
+    width: 100%;
+  }
 }
 
 .home .content-deta {

@@ -45,6 +45,9 @@
           display: inline-block;
           z-index: -1;
         }
+        @media(max-width:1199px) {
+            width: 100%;
+        }
       }
       
       .content-deta {
