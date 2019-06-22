@@ -7,7 +7,7 @@ module.exports = {
   siteTitleAlt: 'Leo', // Alternative Site title for SEO
   siteTitleShort: 'Leo', // short_name for manifest
   siteHeadline: 'Generating and developing innovative ideas for next and blast tech-ecosystem', // Headline for schema.org JSONLD
-  siteUrl: 'http://lvidal.pe', // Domain of your site. No trailing slash!
+  siteUrl: 'https://practical-wing-abfd82.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Portfolio with Parallax effect',
