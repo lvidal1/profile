@@ -1,6 +1,0 @@
-.blue-bg{
-    background-color: $blue-color;
-    &--gradient{
-        @include linear-gradient(to bottom, $blue-color, lighten($blue-color,2%));
-    }
-}
