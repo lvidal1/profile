@@ -10,7 +10,7 @@ module.exports = {
   siteUrl: 'https://practical-wing-abfd82.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
-  siteDescription: 'Portfolio with Parallax effect',
+  siteDescription: 'Have a nice tech-day!',
   author: 'Leonardo Vidal', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
