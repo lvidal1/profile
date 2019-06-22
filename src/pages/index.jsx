@@ -100,8 +100,8 @@ const Index = () => (
           opinionated architecture and internal dynamics. Everything according to the objective of contributing and
           being part of the global synergy. Draw lines and connecting points between logical and business processes is
           my daily duty. I love to play as an entity of change, basing my decisions in the knowledge of an environment.
-          Analyzing and hunting opportunities. I have purchased a ticket to make part of the change and while you read
-          this I want to tell you that you are also part of the group. Any idea that is designed to improve the
+          Analyzing and hunting opportunities. I have purchased a ticket to make part of the change and while you are
+          reading this I want to tell you that you are also part of the group. Any idea that is designed to improve the
           lifestyle in a positive way will always be the fuel for sustainable growth.
         </AboutDesc>
       </About>
