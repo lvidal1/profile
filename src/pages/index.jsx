@@ -95,8 +95,8 @@ const Index = () => (
         </AboutHero>
         <AboutDesc>
           Day to day, a very first sensation I feel is about awakening with the same curiosity that introduced me to the
-          area of technology, the curiosity to know how things work, how the world works. Within a world so volatile and
-          digitalized, I feel like a strategic figure, with responsibility and desire to know its increasingly
+          field of technology, the curiosity to know how things work, how the world works. Within a world so volatile
+          and digitalized, I feel like a strategic figure, with responsibility and desire to know its increasingly
           opinionated architecture and internal dynamics. Everything according to the objective of contributing and
           being part of the global synergy. Draw lines and connecting points between logical and business processes is
           my daily duty. I love to play as an entity of change, basing my decisions in the knowledge of an environment.
@@ -110,16 +110,19 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:lvidal910@gmail.com">Hi</a> or find me on other platforms:{' '}
-            <a href="https://www.linkedin.com/in/lvidalio/">LinkedIn</a> &{' '}
-            <a href="https://www.instagram.com/lvidal.io/">Instagram</a>
+            <a href="https://www.linkedin.com/in/lvidalio/" target="_blank" rel="noopener noreferrer">
+              LinkedIn
+            </a>{' '}
+            &{' '}
+            <a href="https://www.instagram.com/lvidal.io/" target="_blank" rel="noopener noreferrer">
+              Instagram
+            </a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Portfolio. Powered by&nbsp;
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">
-            Gatsby Starter Portfolio Github Repository
-          </a>
-          . Made by <a href="https://www.lekoarts.de">LekoArts</a>.
+          &copy; 2019. Powered by&nbsp;
+          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Gatsby Portfolio Github Repository</a>.
+          Made by <a href="https://www.lekoarts.de">LekoArts</a>.
         </Footer>
       </Contact>
     </Parallax>
