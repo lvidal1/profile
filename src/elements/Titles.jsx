@@ -27,4 +27,5 @@ export const BigTitle = styled.h1`
 export const Subtitle = styled.p`
   ${tw`text-2xl lg:text-4xl font-sans text-white mt-8 xxl:w-3/4`};
   text-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
+  color: #ee5861;
 `
